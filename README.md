@@ -1,3 +1,5 @@
+Not maintained anymore. Please check https://github.com/martin-doyle/node-red-contrib-aedes
+
 # node-red-contrib-mqtt-broker
 MQTT Broker server on Node-RED
 
