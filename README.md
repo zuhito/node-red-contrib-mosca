@@ -1,9 +1,6 @@
-Not maintained anymore. Please check https://github.com/martin-doyle/node-red-contrib-aedes
-
-
-
-
-
+Not maintained anymore because dependant Mosca is not maintained. Please check node-red-contrib-aedes node instead of that.
+ - Flow library: https://flows.nodered.org/node/node-red-contrib-aedes
+ - GitHub: https://github.com/martin-doyle/node-red-contrib-aedes
 
 # node-red-contrib-mqtt-broker
 MQTT Broker server on Node-RED
